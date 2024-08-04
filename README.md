@@ -17,6 +17,6 @@ Specify the the output file path and the input file at the bottom of generator.p
 #
 run generator.py
 # 
-go into viewer.py and specify the generated .bfif file at the bottom then run it
+go into viewer.py and specify the generated .bfif file at the bottom then run viewer.py
 #
 The viewer currently doesn't work, but might soon
